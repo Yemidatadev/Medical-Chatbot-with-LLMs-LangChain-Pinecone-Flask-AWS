@@ -1,4 +1,4 @@
-# AWS Setup
+# AWS Setup.
 
 # Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
